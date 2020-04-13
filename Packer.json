@@ -74,7 +74,7 @@
       },	  
 	  {
         "type": "ansible",
-        "playbook_file": "Ansible/apache.yml",
+        "playbook_file": "Ansible/Apache.yml",
         
         "role_paths": [
         "ansible/roles/common"
